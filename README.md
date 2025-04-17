@@ -1,2 +1,2 @@
 # a-star-algorithm
-A* algorithm visualization with Pygame
+A* algorithm visualization with Pygame with random obstacles.
